@@ -10,7 +10,6 @@ function Index() {
         <title></title>
       </Helmet>
       <img src="/frontpage.png"></img>
-      <div>blah</div>
     </main>
   );
 }
