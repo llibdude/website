@@ -9,7 +9,7 @@ function Index() {
       <Helmet>
         <title></title>
       </Helmet>
-      <img src="/frontpage.png"></img>
+      <img src="/frontpage.svg"></img>
     </main>
   );
 }
