@@ -1,6 +1,5 @@
 import React from "react";
 import { Helmet } from "react-helmet";
-//import BackgroundImage from "gatsby-background-image";
 import "../styles/index.css";
 
 function Index() {
@@ -10,6 +9,9 @@ function Index() {
         <title></title>
       </Helmet>
       <img src="/frontpage.svg"></img>
+      <div class="floater">
+        <img src="/high-availability.gif"></img>
+      </div>
     </main>
   );
 }
